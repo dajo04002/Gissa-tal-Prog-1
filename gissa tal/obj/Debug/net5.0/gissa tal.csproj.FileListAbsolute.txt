@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.exe
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.deps.json
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.runtimeconfig.json
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.runtimeconfig.dev.json
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.dll
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\ref\gissa tal.dll
+C:\Users\Admin\Documents\gissa tal\bin\Debug\net5.0\gissa tal.pdb
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.AssemblyInfo.cs
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.dll
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\ref\gissa tal.dll
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.pdb
+C:\Users\Admin\Documents\gissa tal\obj\Debug\net5.0\gissa tal.genruntimeconfig.cache
