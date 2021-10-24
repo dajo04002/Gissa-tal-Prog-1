@@ -10,10 +10,10 @@ namespace gissa_tal
             int slumpTal = slump.Next(100);
             int antalGissningar = 0;
             int gissning = 101;
+            Console.WriteLine("Guess the randomly generated number!");
 
             while(gissning != slumpTal)
             {
-                Console.WriteLine("Guess the randomly generated number!");
                 gissning = int.Parse(Console.ReadLine());
                 antalGissningar ++;
 
